@@ -2,7 +2,7 @@
 A repository with collection of learning resource for learning  react js  
 
 # Motivation
-<p> hello guys i recenty learn react js so i decided to share my learning resource with you guys so it will  help you learn react js fast </p>
+<p> Hello guys i recenty learn react js so i decided to share my learning resource with you guys so it will  help you learn react js fast </p>
 
 # what is react js?
 
