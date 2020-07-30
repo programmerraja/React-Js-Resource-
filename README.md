@@ -49,3 +49,34 @@ A repository with collection of learning resource for learning  react js
     <li> <a href="https://www.youtube.com/watch?v=DLX62G4lc44">React js  in one video  #1 </a></li>
    <li> <a href="https://www.youtube.com/watch?v=fSp2C7QPH8M">React js  in one video  #2</a></li> 
   </ol>
+ 
+
+# What is Redux ?
+<ol>
+    <h3>You Tube videos </h3>
+    <li> <a href="https://www.youtube.com/watch?v=np8A_aW7Pew">What is Redux #1 </a></li>
+    <li> <a href="https://www.youtube.com/watch?v=3sjMRS1gJys">What is Redux #2 </a></li>
+    <li> <a href="https://www.youtube.com/watch?v=mhqO-VL6U2I">What is Redux #3 </a></li>
+  </ol>
+
+
+# React js redux playlist
+<ol>
+    <h3>You Tube videos </h3>
+    <li> <a href="https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK">React js redux playlist #1 </a></li>
+   <li> <a href="https://www.youtube.com/watch?v=DiLVAXlVYR0&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a">React js redux playlist #2</a></li> 
+   <li> <a href="https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_">React js redux playlist #3</a></li> 
+  </ol>
+  
+# React js redux crash course
+<ol>
+    <h3>You Tube videos </h3>
+    <li> <a href="https://www.youtube.com/watch?v=93p3LxR9xfM">React js redux crash course #1 </a></li> 
+    <li> <a href="https://www.youtube.com/watch?v=CVpUuw9XSjY">React js redux crash course #2 </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=poQXNp9ItL4">React js redux crash course #3 </a></li>  
+    <li> <a href=" https://www.youtube.com/watch?v=tOtGnCBXU3U">React js redux crash course #4 </a></li>  
+<ol>
+   
+   
+   
+  
