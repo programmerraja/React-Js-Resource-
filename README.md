@@ -18,4 +18,16 @@ A repository with collection of learning resource for learning  react js
     <h3>You Tube videos </h3>
     <li> <a href="https://www.youtube.com/watch?v=Q9Qx2Xef0do">React js learning path 2020 </a></li>
    <li> <a href="https://www.youtube.com/watch?v=PNlfbjZ3ChY">React Developer road map</a></li> 
+   <li> <a href="https://www.youtube.com/watch?v=XFERYx0zP5s">The best way to learn react js </a></li> 
+  </ol>
+
+# react js playlist 
+  <ol>
+    <h3>You Tube videos </h3>
+    <li> <a href="https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3">React js tutorial #1 </a></li>
+   <li> <a href="https://www.youtube.com/watch?v=yZ0f1Apb5CU&list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR">React js tutorial #2</a></li> 
+   <li> <a href="https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC">React js tutorial #3</a></li> 
+   <li> <a href="https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS">React js tutorial #4</a></li> 
+   <li> <a href="https://www.youtube.com/watch?v=pp2Jl7xkoeA&list=PL9ooVrP1hQOGN1jUBxcghKWedTVD2Ns0z">React js tutorial #5</a></li> 
+   
   </ol>
