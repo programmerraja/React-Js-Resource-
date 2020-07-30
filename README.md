@@ -80,11 +80,13 @@ A repository with collection of learning resource for learning  react js
    
 # Books 
 <ol>
-    <h3>these books are i must recommend to read  </h3>
+    <h3>these books are i must recommend to read </h3>
     <li> <a href="http://80.82.78.13/get.php?md5=1ca80d2ca01ac4fe106c899900e9eecb&key=AF00W3DKZ4J8S3SY&mirr=1">The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js
 Book by Robin Wieruch </a></li> 
     <li> <a href=http://80.82.78.13/get.php?md5=4266d31aa708d3e48fb1ea62933364f9&key=5D6LETCEJ3NO635D&mirr=1">Fullstack React: The Complete Guide to ReactJS and Friends
-Book by Anthony Accomazzo, Ari Lerner, and Nate Murray </a></li>  
+Book by Anthony Accomazzo, Ari Lerner, and Nate Murray (100% Best)</a></li>  
 <ol>
 
- # HAPPY LEARNING 
+# HAPPY LEARNING 
+
+<h3>If you like contriubute to this repositry pull your request </h3>
