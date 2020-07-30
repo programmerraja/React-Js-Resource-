@@ -21,7 +21,7 @@ A repository with collection of learning resource for learning  react js
    <li> <a href="https://www.youtube.com/watch?v=XFERYx0zP5s">The best way to learn react js </a></li> 
   </ol>
 
-# react js playlist 
+# React js playlist 
   <ol>
     <h3>You Tube videos </h3>
     <li> <a href="https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3">React js tutorial #1 </a></li>
@@ -30,4 +30,22 @@ A repository with collection of learning resource for learning  react js
    <li> <a href="https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS">React js tutorial #4</a></li> 
    <li> <a href="https://www.youtube.com/watch?v=pp2Jl7xkoeA&list=PL9ooVrP1hQOGN1jUBxcghKWedTVD2Ns0z">React js tutorial #5</a></li> 
    
+  </ol>
+
+# React js crash course
+<ol>
+    <h3>You Tube videos </h3>
+    <li> <a href="https://www.youtube.com/watch?v=sBws8MSXN7A">React js crash course #1 </a></li>
+   <li> <a href="https://www.youtube.com/watch?v=nvHeB32ICDM">React js crash course #2</a></li> 
+   <li> <a href="https://www.youtube.com/user/programmingwithmosh">React js crash course #3</a></li> 
+   <li> <a href="https://www.youtube.com/watch?v=mACw_G-okPE">React js crash course #4</a></li> 
+   <li> <a href="https://www.youtube.com/watch?v=hQAHSlTtcmY">React js crash course #5</a></li> 
+
+  </ol>
+
+# React js in one video 
+<ol>
+    <h3>You Tube videos </h3>
+    <li> <a href="https://www.youtube.com/watch?v=DLX62G4lc44">React js  in one video  #1 </a></li>
+   <li> <a href="https://www.youtube.com/watch?v=fSp2C7QPH8M">React js  in one video  #2</a></li> 
   </ol>
