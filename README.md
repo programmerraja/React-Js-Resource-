@@ -74,9 +74,17 @@ A repository with collection of learning resource for learning  react js
     <li> <a href="https://www.youtube.com/watch?v=93p3LxR9xfM">React js redux crash course #1 </a></li> 
     <li> <a href="https://www.youtube.com/watch?v=CVpUuw9XSjY">React js redux crash course #2 </a></li>  
     <li> <a href="https://www.youtube.com/watch?v=poQXNp9ItL4">React js redux crash course #3 </a></li>  
-    <li> <a href=" https://www.youtube.com/watch?v=tOtGnCBXU3U">React js redux crash course #4 </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=tOtGnCBXU3U">React js redux crash course #4 </a></li>  
+    <li> <a href="https://www.youtube.com/watch?v=qq1OO3m7hAE">React js redux crash course #5 </a></li>  
 <ol>
    
-   
-   
-  
+# Books 
+<ol>
+    <h3>these books are i must recommend to read  </h3>
+    <li> <a href="http://80.82.78.13/get.php?md5=1ca80d2ca01ac4fe106c899900e9eecb&key=AF00W3DKZ4J8S3SY&mirr=1">The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js
+Book by Robin Wieruch </a></li> 
+    <li> <a href=http://80.82.78.13/get.php?md5=4266d31aa708d3e48fb1ea62933364f9&key=5D6LETCEJ3NO635D&mirr=1">Fullstack React: The Complete Guide to ReactJS and Friends
+Book by Anthony Accomazzo, Ari Lerner, and Nate Murray </a></li>  
+<ol>
+
+ # HAPPY LEARNING 
