@@ -87,12 +87,15 @@ A repository with collection of learning resource for learning  react js
 Book by Anthony Accomazzo, Ari Lerner, and Nate Murray (100% Best)</a></li>  
     <li> <a href="http://80.82.78.13/get.php?md5=1ca80d2ca01ac4fe106c899900e9eecb&key=AF00W3DKZ4J8S3SY&mirr=1">The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js
 Book by Robin Wieruch </a></li> 
-
+ <li> <a href="http://80.82.78.35/get.php?md5=bba3b1138bb97488b875fcb5964d3517&key=PL8KR2O3ZKMFTP0O&mirr=1">	Taming the State in React. Your journey to master Redux and MobX
+Book by Robin Wieruch </a></li> 
 </ol>
 
-#React Deep dive 
 
-<ol>   
+# React Deep dive 
+
+<ol>  
+    <h3>You Tube videos </h3>
     <li> <a href="https://www.youtube.com/watch?v=BXTU4NmMu8A&t=26s">React Deep dive 6 thing you don't know </a></li>
  </ol>
  
