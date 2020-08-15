@@ -77,7 +77,8 @@ A repository with collection of learning resource for learning  react js
     <li> <a href="https://www.youtube.com/watch?v=tOtGnCBXU3U">React js redux crash course #4 </a></li>  
     <li> <a href="https://www.youtube.com/watch?v=qq1OO3m7hAE">React js redux crash course #5 </a></li>  
 </ol>
-   
+
+
 # Books 
 
 <ol>
@@ -89,6 +90,12 @@ Book by Robin Wieruch </a></li>
 
 </ol>
 
+#React Deep dive 
+
+<ol>   
+    <li> <a href="https://www.youtube.com/watch?v=BXTU4NmMu8A&t=26s">React Deep dive 6 thing you don't know </a></li>
+ </ol>
+ 
 # HAPPY LEARNING 
 
 <h3>If you like contriubute to this repositry pull your request </h3>
