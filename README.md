@@ -11,7 +11,8 @@ A repository with collection of learning resource for learning  react js
     <li> <a href="https://www.youtube.com/watch?v=N3AkSS5hXMA">What Is React (React js) and  Why Is It So Popular?</a></li>
    <li> <a href="https://www.youtube.com/watch?v=JPT3bFIwJYA">ReactJS Basics - #1 What is React?</a></li> 
   <li> <a href="https://www.youtube.com/watch?v=1wZoGFF_oi4">What Is React And Why You Need To Know It</a></li>
-  </ol>
+ 
+ </ol>
 
 # React js learning path 2020 
   <ol>
@@ -19,6 +20,8 @@ A repository with collection of learning resource for learning  react js
     <li> <a href="https://www.youtube.com/watch?v=Q9Qx2Xef0do">React js learning path 2020 </a></li>
    <li> <a href="https://www.youtube.com/watch?v=PNlfbjZ3ChY">React Developer road map</a></li> 
    <li> <a href="https://www.youtube.com/watch?v=XFERYx0zP5s">The best way to learn react js </a></li> 
+   <li> <a href="https://youtu.be/SAIdyBFHfVU">The introduction to React you've been missing - Kent C. Dodds</a></li>
+ 
   </ol>
 
 # React js playlist 
