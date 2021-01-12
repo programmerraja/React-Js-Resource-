@@ -105,6 +105,10 @@ Book by Robin Wieruch </a></li>
  <li> <a href="https://m.youtube.com/watch?v=j9Z86CLg9YY&feature=youtu.be">Let's Write a Redux from Scratch!</a></li>
  </ol>
  
+<ol>  
+    <h3>Blogs</h3>
+  <li> <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained">Optimizing React:Virtual DOM explained</a></li>
+ </ol>
 # HAPPY LEARNING 
 
 <h3>If you like contriubute to this repositry pull your request </h3>
