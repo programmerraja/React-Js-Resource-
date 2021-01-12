@@ -101,6 +101,8 @@ Book by Robin Wieruch </a></li>
 <ol>  
     <h3>You Tube videos </h3>
     <li> <a href="https://www.youtube.com/watch?v=BXTU4NmMu8A&t=26s">React Deep dive 6 thing you don't know </a></li>
+    <li> <a href="https://youtu.be/l2Tu0NqH0qU">Let's build virtual Dom from scratch</a></li>
+ 
  </ol>
  
 # HAPPY LEARNING 
