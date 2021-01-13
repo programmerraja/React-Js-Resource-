@@ -128,14 +128,19 @@ Book by Robin Wieruch </a></li>
 <li> <a href="https://youtu.be/85gJMUEcnkc">Boris Building a Simple Virtual DOM from Scratch - Jason Yu</a></li>
  </ol>
  
-<h3> blogs</h3>
+
 
 <ol>  
+   
+   <h3> Blogs</h3>
+
   <li> <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained">Optimizing React:Virtual DOM explained</a></li>
  </ol>
 
-<h3> Playlist </h3>
+
 <ol>
+<h3> Playlist </h3>
+
 <li> <a href="https://youtube.com/playlist?list=PLNIn9uF_2Il7oTVfQtFeb83D3XWhC7oSt">Code your own React js </a></li>
 <li> <a href="https://youtube.com/playlist?list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u">React js  discussion Q&A 140+  videos </a></li>
 </ol>
