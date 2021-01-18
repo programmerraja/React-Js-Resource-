@@ -126,6 +126,15 @@ Book by Robin Wieruch </a></li>
  
 
 <li> <a href="https://youtu.be/85gJMUEcnkc">Boris Building a Simple Virtual DOM from Scratch - Jason Yu</a></li>
+
+<li> <a href="https://youtu.be/lG6Z0FQj_SI">The React Cookbook: Advanced Recipes to Level Up Your Next App </a></li>
+
+
+<li> <a href="https://youtu.be/BcVAq3YFiuc">Michael Jackson - Never Write Another HoC</a></li>
+
+<li> <a href="https://youtu.be/Q6Kczrgw6ic
+">Michael Jackson - React Router at react-europe 2015</a></li>
+
  </ol>
  
 
@@ -144,6 +153,7 @@ Book by Robin Wieruch </a></li>
 <li> <a href="https://youtube.com/playlist?list=PLNIn9uF_2Il7oTVfQtFeb83D3XWhC7oSt">Code your own React js </a></li>
 <li> <a href="https://youtube.com/playlist?list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u">React js  discussion Q&A 140+  videos </a></li>
 </ol>
-# HAPPY LEARNING 
+
+## Happy Learning
 
 <h3>If you like contriubute to this repositry pull your request </h3>
