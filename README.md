@@ -140,10 +140,11 @@ Book by Robin Wieruch </a></li>
 
 
 <ol>  
-   
    <h3> Blogs</h3>
 
   <li> <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained">Optimizing React:Virtual DOM explained</a></li>
+  <li> <a href="https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/book/Intro.html">Under The Hood React js (full indepth)</a></li>
+
  </ol>
 
 
