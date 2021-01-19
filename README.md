@@ -4,7 +4,7 @@ A repository with collection of learning resource for learning  react js
 # Motivation
 <p> Hello guys i recenty learn react js so i decided to share my learning resource with you guys so it will  help you learn react js fast </p>
 
-# what is react js?
+# what is react js?(beginner)
 
    <ol>
     <h3>You Tube videos </h3>
@@ -74,7 +74,7 @@ A repository with collection of learning resource for learning  react js
 
 
 
-# What is Redux ?
+# What is Redux ?(intermediate)
 <ol>
     <h3>You Tube videos </h3>
     <li> <a href="https://www.youtube.com/watch?v=np8A_aW7Pew">What is Redux #1 </a></li>
@@ -115,7 +115,7 @@ Book by Robin Wieruch </a></li>
 </ol>
 
 
-# React Deep dive 
+# React Deep dive (advanced)
 
 <ol>  
     <h3>You Tube videos </h3>
@@ -134,7 +134,7 @@ Book by Robin Wieruch </a></li>
 
 <li> <a href="https://youtu.be/Q6Kczrgw6ic
 ">Michael Jackson - React Router at react-europe 2015</a></li>
-
+<li> <a href="https://youtu.be/ZCuYPiUIONs">The  A cartoon introduction to React Fiber</a></li>
  </ol>
  
 
@@ -144,6 +144,9 @@ Book by Robin Wieruch </a></li>
 
   <li> <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained">Optimizing React:Virtual DOM explained</a></li>
   <li> <a href="https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/book/Intro.html">Under The Hood React js (full indepth)</a></li>
+<li> <a href="https://giamir.com/what-is-react-fiber">what is react fiber</a></li>
+<li> <a href="https://blog.logrocket.com/deep-dive-into-react-fiber-internals/
+">deep dive into react fiber internals</a></li>
 
  </ol>
 
