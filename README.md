@@ -135,6 +135,10 @@ Book by Robin Wieruch </a></li>
 <li> <a href="https://youtu.be/Q6Kczrgw6ic
 ">Michael Jackson - React Router at react-europe 2015</a></li>
 <li> <a href="https://youtu.be/ZCuYPiUIONs">The  A cartoon introduction to React Fiber</a></li>
+
+
+<li> <a href="https://youtu.be/NGxVLnJKhP8
+"> A cartoon introduction to perfomance in react js </a></li>
  </ol>
  
 
