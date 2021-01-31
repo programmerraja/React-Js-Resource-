@@ -139,11 +139,17 @@ Book by Robin Wieruch </a></li>
 
 <li> <a href="https://youtu.be/NGxVLnJKhP8
 "> A cartoon introduction to perfomance in react js </a></li>
+
+<li> <a href="https://youtu.be/GMfDa79iZFs
+"> Behind setsState () </a></li>
+
  </ol>
+
  
 
 
 <ol>  
+
    <h3> Blogs</h3>
 
   <li> <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained">Optimizing React:Virtual DOM explained</a></li>
@@ -154,7 +160,9 @@ Book by Robin Wieruch </a></li>
 
 <li> <a href="https://www.sitepoint.com/react-router-complete-guide/
 "> A React Router complete guide(best) </a></li>
-
+<li> <a href="https://alexkondov.com/tao-of-react/
+">  React - Software Design, Architecture & Best Practices
+</a></li>
 
  </ol>
 
