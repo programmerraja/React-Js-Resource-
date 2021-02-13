@@ -164,11 +164,13 @@ Book by Robin Wieruch </a></li>
 ">  React - Software Design, Architecture & Best Practices
 </a></li>
 
-
 <li> <a href="https://medium.com/javascript-in-plain-english/double-your-react-coding-speed-with-this-simple-trick-ca2e47d1bf97
 ">  Double Your React Coding Speed With This Simple Trick
 </a></li>
 
+<li> <a href="https://medium.com/better-programming/best-practices-i-wish-all-react-developers-knew-part-1-ff6cdee0666a
+">  Best practices I wish all react developer knew part-1
+</a></li>
  </ol>
 
 
