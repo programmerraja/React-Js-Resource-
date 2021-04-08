@@ -171,6 +171,18 @@ Book by Robin Wieruch </a></li>
 <li> <a href="https://medium.com/better-programming/best-practices-i-wish-all-react-developers-knew-part-1-ff6cdee0666a
 ">  Best practices I wish all react developer knew part-1
 </a></li>
+
+<li> <a href="https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
+">  Complete Guide to React Rendering Behavior
+</a></li>
+
+
+
+
+<li> <a href="https://medium.com/swlh/having-fun-with-reacts-renderer-be15b39c4556
+">  Having Fun With React’s Renderer
+</a></li>
+
  </ol>
 
 
