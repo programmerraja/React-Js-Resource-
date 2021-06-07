@@ -178,6 +178,9 @@ Book by Robin Wieruch </a></li>
 
 
 
+<li> <a href="https://eliav2.medium.com/how-react-hooks-work-in-depth-61e74b2e169a
+">  How react hooks work in depth 
+</a></li>
 
 <li> <a href="https://medium.com/swlh/having-fun-with-reacts-renderer-be15b39c4556
 ">  Having Fun With React’s Renderer
