@@ -178,6 +178,10 @@ Book by Robin Wieruch </a></li>
 
 
 
+<li> <a href="https://medium.com/technogise/journey-of-improving-react-app-performance-by-10x-9195d4b483d4
+">  Journey of improving react app performance by 10x 
+</a></li>
+
 <li> <a href="https://eliav2.medium.com/how-react-hooks-work-in-depth-61e74b2e169a
 ">  How react hooks work in depth 
 </a></li>
