@@ -189,7 +189,13 @@ Book by Robin Wieruch </a></li>
 <li> <a href="https://medium.com/swlh/having-fun-with-reacts-renderer-be15b39c4556
 ">  Having Fun With React’s Renderer
 </a></li>
-
+      
+<li> 
+      <a href="
+https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/">
+      react internals part one basic rendering
+</a>
+      </li>
  </ol>
 
 
