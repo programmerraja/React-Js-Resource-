@@ -191,8 +191,7 @@ Book by Robin Wieruch </a></li>
 </a></li>
       
 <li> 
-      <a href="
-https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/">
+      <a href="https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/">
       react internals part one basic rendering
 </a>
       </li>
