@@ -195,6 +195,12 @@ Book by Robin Wieruch </a></li>
       react internals part one basic rendering
 </a>
       </li>
+<li> 
+      <a href="https://blog.codersequity.com/a-complete-guide-to-clean-code-principles-for-javascript-82052c317789">
+      A complete guide to clean code 
+</a>
+https://blog.codersequity.com/a-complete-guide-to-clean-code-principles-for-javascript-82052c317789
+      </li>
  </ol>
 
 
