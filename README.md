@@ -151,6 +151,7 @@ Book by Robin Wieruch </a></li>
 <ol>  
 
    <h3> Blogs</h3>
+<li> <a href="https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/">Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior </a></Li>
 <li> <a href="https://www.developerway.com/">A great react pattern blogs </a></Li>
   <li> <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained">Optimizing React:Virtual DOM explained</a></li>
   <li> <a href="https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/book/Intro.html">Under The Hood React js (full indepth)</a></li>
